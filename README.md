@@ -16,7 +16,7 @@ It was completed as part of my Master’s in Data Science (DATA6100 - Predictive
 - **Best model:** 49 selected features  
 
 ## 📁 Files
-- `DATA_6100_Project1_Final_Submission_1358582.ipynb` — main notebook  
+- `DATA_6100_Project1_Final_Submission.ipynb` — main notebook  
 - `Project_Summary.pdf` — 3-page report summary  
 - `requirements.txt` — libraries to reproduce results
 - `data_description.txt` — description of dataset
